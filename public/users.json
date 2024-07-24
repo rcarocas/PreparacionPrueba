@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Miguel García",
+            "email": "miguel@gmail.com",
+            "password": "123456",
+            "admin": false
+        },
+        {
+            "id": 2,
+            "name": "Carlos Godoy",
+            "email": "carlos@gmail.com",
+            "password": "123456",
+            "admin": true
+        },
+        {
+            "id": 3,
+            "name": "Marta Olivera",
+            "email": "marta@gmail.com",
+            "password": "123456",
+            "admin": false
+        }
+    ]
+}
